@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Souring&#39;s portfolio</title>
+    <link>https://souring001.github.io/posts/</link>
+    <description>Recent content in Posts on Souring&#39;s portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright © 2019–2020, Kohei Aso and the Hugo Authors; all rights reserved.</copyright>
+    <lastBuildDate>Thu, 16 Apr 2020 22:10:38 +0900</lastBuildDate>
+    
+	<atom:link href="https://souring001.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>うどんディスプレイ</title>
+      <link>https://souring001.github.io/posts/udon-dough-display/</link>
+      <pubDate>Thu, 16 Apr 2020 22:10:38 +0900</pubDate>
+      
+      <guid>https://souring001.github.io/posts/udon-dough-display/</guid>
+      <description>手打ちうどんの生地を楽しく伸ばすためのインタラクティブシステム．
+  手打ちうどんの生地を楽しくのばせるようにしてみました． 投影するために、ある程度のばさないといけません．
+ 技術  OpenCV C++  </description>
+    </item>
+    
+    <item>
+      <title>プログラミルクボーイ</title>
+      <link>https://souring001.github.io/posts/programmilkboy/</link>
+      <pubDate>Sun, 22 Mar 2020 17:50:08 +0900</pubDate>
+      
+      <guid>https://souring001.github.io/posts/programmilkboy/</guid>
+      <description>ミルクボーイさんの漫才のエディタ．
+  2人ともVimmerです．
+ 技術  Vim  </description>
+    </item>
+    
+    <item>
+      <title>イルミパケット</title>
+      <link>https://souring001.github.io/posts/illumi-packet/</link>
+      <pubDate>Wed, 11 Dec 2019 14:43:18 +0900</pubDate>
+      
+      <guid>https://souring001.github.io/posts/illumi-packet/</guid>
+      <description>通過するパケットを可視化するLANケーブル．
+  イルミパケット(Illumi Packet)は、通信パケットの種類と方向に合わせて、まるでパケットが流れたかのようにLANケーブルが光ります．
+例えば、ウェブサイトにアクセスした時は、緑(DNS)と青(TCP)の光が複数個流れます．
+通常のパケット解析に使われるツールはリアルタイムで目で追うことが難しいのに対し、これはパソコンを操作しながらパケットを観察できるので、「どういう操作」をした時に「どういうパケット」が発生するのかを体感することができます．
+ 技術  golang Raspberry Pi  </description>
+    </item>
+    
+    <item>
+      <title>Android Labo</title>
+      <link>https://souring001.github.io/posts/android-labo/</link>
+      <pubDate>Thu, 11 Jul 2019 15:22:20 +0900</pubDate>
+      
+      <guid>https://souring001.github.io/posts/android-labo/</guid>
+      <description>Android端末2つとUnityを使って，ドライブキットを自作しました．
+  技術  Unity Java Android  </description>
+    </item>
+    
+  </channel>
+</rss>
